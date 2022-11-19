@@ -1,5 +1,5 @@
 IBM-IoT Smart Farming Application
-Project Demo Drive Link:
+Project Demo Video Drive Link:
 
  https://drive.google.com/file/d/1ahVBzdcLIj1E8bOtE5nzYm4NfDMQ3YYt/view?usp=share_link
 
